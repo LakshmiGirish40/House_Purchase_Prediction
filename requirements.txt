@@ -8,3 +8,6 @@ scikit_learn==1.5.2
 seaborn==0.13.2
 streamlit==1.38.0
 xgboost==2.1.1
+
+google-cloud-aiplatform
+google-cloud-logging
